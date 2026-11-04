@@ -1,0 +1,35 @@
+body{
+    background-color: #495579;
+}
+#queue{
+    align-items: center;
+}
+.enqueue, .dequeue{
+   width: 50px;
+   height: 50px;
+   border-radius: 5px;
+   margin:  5px auto;
+   align-content: center;
+   justify-content: center;
+}
+.dequeue{
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+   
+   
+}
+ .dequeueped{
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+ }
+.peek{
+    background-color: gold;
+}
+.bg-7B8FA1{
+    background-color: #7B8FA1;
+}   
+.bg-9C254D{
+    background-color: #9C254D;
+}
